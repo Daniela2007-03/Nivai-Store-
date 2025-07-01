@@ -1,0 +1,22 @@
+ <!-- Imagenes de mostrario de productos -->
+ <img src="https://i.pinimg.com/736x/ef/fb/47/effb4793b4542230564f3f3b8625ae5d.jpg" alt="https://i.pinimg.com/736x/ef/fb/47/effb4793b4542230564f3f3b8625ae5d.jpg" style="width: 200px; height: 300px; overflow: hidden;">
+ <img src="https://i.pinimg.com/736x/b8/f7/74/b8f774abc829a4096ad756e28e489d49.jpg" alt="https://i.pinimg.com/736x/b8/f7/74/b8f774abc829a4096ad756e28e489d49.jpg" style="width: 200px; height: 300px; overflow: hidden;">
+ <img src="https://i.pinimg.com/736x/56/54/4d/56544de9d21c4ff4479e880c14cd609f.jpg" alt="https://i.pinimg.com/736x/56/54/4d/56544de9d21c4ff4479e880c14cd609f.jpg" style="width: 200px; height: 300px; overflow: hidden;">
+ <img src="https://i.pinimg.com/736x/7f/4d/cc/7f4dcc3e4f4f73e82797313dd5e0179d.jpg" alt="https://i.pinimg.com/736x/7f/4d/cc/7f4dcc3e4f4f73e82797313dd5e0179d.jpg" style="width: 200px; height: 300px; overflow: hidden;">
+ <img src="https://i.pinimg.com/736x/47/a5/0c/47a50c3db00ce3dab55c1574591f06c9.jpg" alt="https://i.pinimg.com/736x/47/a5/0c/47a50c3db00ce3dab55c1574591f06c9.jpg" style="width: 200px; height: 300px; overflow: hidden;">
+ <img src="https://i.pinimg.com/736x/50/d4/27/50d427b59aa2bd4aef6ea804c5f00ef8.jpg" alt="https://i.pinimg.com/736x/50/d4/27/50d427b59aa2bd4aef6ea804c5f00ef8.jpg" style="width: 200px; height: 300px; overflow: hidden;">
+ <img src="https://i.pinimg.com/736x/fa/1c/98/fa1c9884e7338b4efad26d3fe13ca41c.jpg" alt="https://i.pinimg.com/736x/fa/1c/98/fa1c9884e7338b4efad26d3fe13ca41c.jpg" style="width: 200px; height: 300px; overflow: hidden;">
+ 
+<!-- Imagenes de productos destacados -->
+ <img src="https://img.kwcdn.com/product/fancy/cf7a0469-9918-4122-928d-26342e281b94.jpg?imageView2/2/w/1300/q/90/format/webp" alt="Imagen 1" class="carousel-image active" width="400" height="400">
+ <img src="https://img.kwcdn.com/product/fancy/9957bd21-7a00-4264-8462-ea4e310aa512.jpg?imageView2/2/w/1300/q/90/format/webp" alt="Imagen 1" class="carousel-image active" width="400" height="400">
+ <img src="https://img.kwcdn.com/product/fancy/d0501ab8-af17-48ce-8d6d-52755c868cea.jpg?imageView2/2/w/1300/q/90/format/webp" alt="Imagen 1" class="carousel-image active" width="400" height="400">
+   
+ <img src="https://img.kwcdn.com/product/fancy/c374450b-9bd0-4661-ae2f-758447c6d885.jpg?imageView2/2/w/1300/q/90/format/webp" alt="Imagen 1" class="carousel-image active" width="400" height="400">
+ <img src="https://img.kwcdn.com/product/fancy/adafe0a0-3477-4c4c-bd28-b5b0176d7cbd.jpg?imageView2/2/w/1300/q/90/format/webp" alt="Imagen 1" class="carousel-image active" width="400" height="400">
+ <img src="https://img.kwcdn.com/product/fancy/ff8e2efb-439a-4a4e-810a-46b13b5067f9.jpg?imageView2/2/w/1300/q/90/format/webp" alt="Imagen 1" class="carousel-image active" width="400" height="400">
+   
+ <img src="https://img.kwcdn.com/product/fancy/19addfc5-675f-42b0-916e-7a519e025a3b.jpg?imageView2/2/w/1300/q/90/format/webp" alt="Imagen 1" class="carousel-image active" width="400" height="400">
+ <img src="https://img.kwcdn.com/product/fancy/1a3d1c55-3e34-4fdf-8c6b-d20820df66a5.jpg?imageView2/2/w/1300/q/90/format/webp" alt="Imagen 1" class="carousel-image active" width="400" height="400">
+ <img src="https://img.kwcdn.com/product/fancy/0fb336a5-5b64-4589-b1b4-8a33573aae8a.jpg?imageView2/2/w/1300/q/90/format/webp" alt="Imagen 1" class="carousel-image active" width="400" height="400">
+        

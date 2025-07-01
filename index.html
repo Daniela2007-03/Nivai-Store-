@@ -1,0 +1,36 @@
+<head>
+    <meta charset="UTF-8">
+    <title>Nivai Store</title>
+    <link rel="stylesheet" href="../css/estilos.css"> 
+     <link rel="stylesheet" href="../html/productos.html"><!-- 🔗 AQUÍ VINCULAS EL CSS -->
+</head>
+<body>
+    <div class="device-indicator" data-device="Mobile"></div>
+
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">꧁༒☬ 𝕹𝖎𝖛𝖆𝖎 𝕾𝖙𝖔𝖗𝖊 ☬༒꧂</div>
+                <div class="breadcrumb"> </div>
+            </div>
+    </header>
+    <main class="container"></main>
+    <!-- Dentro del body de index.html -->
+<section id="productos-container"></section>
+
+<script src="js/main.js"></script>
+
+<script>
+  document.querySelectorAll('.carousel').forEach(carousel => {
+    const images = carousel.querySelectorAll('.carousel-image.active');
+    let current = 0;
+
+    setInterval(() => {
+      images[current].classList.remove('active');
+      current = (current + 1) % images.length;
+      images[current].classList.add('active');
+    }, 3000); // Cambia cada 3 segundos
+  });
+</script>
+
+</body>
