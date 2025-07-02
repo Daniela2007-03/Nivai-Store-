@@ -1,11 +1,10 @@
-🛍️ Nivai Store - ¿De qué trata esta página?
-Es una página web llamada Nivai Store, hecha para verse bonita y ordenada. La parte que estás viendo en el enlace (el archivo estilos.css) es como “la ropa” de la página: le pone colores, tamaños de letra, forma a los botones y acomoda las imágenes.
-
-Sin ese archivo, la página se vería simple y aburrida, con fondo blanco y letras negras.
+🛍️ Nivai Store - 
+¿De qué trata esta página?
+Es una página web llamada Nivai Store, hecha para verse bonita y ordenada. la página: le pone colores, tamaños de letra, forma a los botones y acomoda las imágenes.
 
 ✨ ¿Qué hace esta página?
 Muestra un fondo bonito
-Con colores que se mezclan del morado al verde.
+Con colores que se mezclan del morado al Negro.
 
 Tiene títulos grandes y claros
 Para que sea fácil leer el nombre de la tienda o las secciones.
